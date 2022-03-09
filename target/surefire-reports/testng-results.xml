@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29039" started-at="2022-03-09T21:18:40 IST" finished-at="2022-03-09T21:19:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29039" started-at="2022-03-09T21:18:40 IST" finished-at="2022-03-09T21:19:09 IST">
+      <class name="Tests.Homepage">
+        <test-method status="PASS" signature="ClickRadioBtn()[pri:0, instance:Tests.Homepage@37d31475]" name="ClickRadioBtn" duration-ms="10373" started-at="2022-03-09T21:18:40 IST" finished-at="2022-03-09T21:18:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickRadioBtn -->
+        <test-method status="PASS" signature="ClickRadioBtn1()[pri:0, instance:Tests.Homepage@37d31475]" name="ClickRadioBtn1" duration-ms="6674" started-at="2022-03-09T21:18:50 IST" finished-at="2022-03-09T21:18:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickRadioBtn1 -->
+        <test-method status="PASS" signature="ClickRadioBtn2()[pri:0, instance:Tests.Homepage@37d31475]" name="ClickRadioBtn2" duration-ms="6246" started-at="2022-03-09T21:18:57 IST" finished-at="2022-03-09T21:19:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickRadioBtn2 -->
+        <test-method status="PASS" signature="GetSubTitle()[pri:0, instance:Tests.Homepage@37d31475]" name="GetSubTitle" duration-ms="5702" started-at="2022-03-09T21:19:03 IST" finished-at="2022-03-09T21:19:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSubTitle -->
+      </class> <!-- Tests.Homepage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
